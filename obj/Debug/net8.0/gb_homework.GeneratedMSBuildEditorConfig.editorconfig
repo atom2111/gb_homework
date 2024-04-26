@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gb_homework
-build_property.ProjectDir = C:\Users\monro\Desktop\atom_files\courses\gb\gb_homework\
+build_property.ProjectDir = D:\Git\gb_homework\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
